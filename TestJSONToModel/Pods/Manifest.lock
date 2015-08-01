@@ -1,0 +1,18 @@
+PODS:
+  - JSONModel (1.1.0)
+  - Mantle (2.0.2):
+    - Mantle/extobjc (= 2.0.2)
+  - Mantle/extobjc (2.0.2)
+  - MJExtension (2.5.3)
+
+DEPENDENCIES:
+  - JSONModel
+  - Mantle
+  - MJExtension
+
+SPEC CHECKSUMS:
+  JSONModel: ec77e9865236a7a09d9cf7668df6b4b328d9ec1d
+  Mantle: 967fd31ea0220890b2e76589198996b534bb3fb1
+  MJExtension: d636ed42d1af44cba81106ae7831cccb66906eb7
+
+COCOAPODS: 0.38.2
